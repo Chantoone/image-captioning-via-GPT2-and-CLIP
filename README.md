@@ -327,16 +327,3 @@ image-captioning-via-clip-and-gpt2/
 
 ---
 
-## 📧 Contact & Support
-
-For questions, issues, or suggestions about this project, feel free to reach out.
-
----
-
-**Last Updated**: December 2024
-
-**Model Version**: Final (Epoch 30)
-
-**Framework**: PyTorch
-
-**License**: MIT
